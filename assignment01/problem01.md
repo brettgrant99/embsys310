@@ -1,4 +1,4 @@
-Discuss an embedded device.
+# Discuss an embedded device.
 
 Eye Movement Desensitization and Reprocessing (EMDR) is a pychotherapy to help people heal from emotional distress.
 
