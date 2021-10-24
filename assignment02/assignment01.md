@@ -1,8 +1,10 @@
 # Assignment 02
 1. 
 	a) Local Value starts out as 2147483647 and changes to -2147483648.
+	
 	b) R1 = 0x8000 0000
-	c) N = 1 because the variable is signed so it is now negative.  V = 1 because the addition resulted in an overflow.
+	
+	c) N = 1 because the variable is signed so it is now negative.  V = 1 because the addition resulted in an overflow.	
 	
 2.
 	a) Locals goes from -1 to 0.
